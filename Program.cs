@@ -17,6 +17,7 @@ namespace AverageOfFiveNumbers
 
         static void Main(string[] args)
         {
+            Console.WriteLine("SUM OF FIVE NUMBERS Programmed by: Ian Kurt G. Valencia\n");
             int[] numbers = new int[5];
 
             for (int i = 0; i < 5; i++)
