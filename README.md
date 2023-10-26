@@ -1,1 +1,3 @@
 # AverageOfFiveNumbers
+BY IAN KURT G. VALENCIA
+ITE 4 ASSIGNMENT NO. 3 
